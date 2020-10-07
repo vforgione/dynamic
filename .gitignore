@@ -1,7 +1,8 @@
 __pycache__
 .mypy_cache
 .pytest_cache
+.tox
 .vscode
 .coverage
-poetry.lock
 *.egg-info
+dist
